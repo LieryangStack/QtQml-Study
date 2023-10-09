@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="MyRectangle.qml">/home/lieryang/Desktop/QtQml-Study/06_Property/MyRectangle.qml</file>
+</qresource>
+</RCC>

@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>image/rocket-lunch.png</file>
+        <file>image/wired-flat-18-location-pin.gif</file>
+    </qresource>
+</RCC>
